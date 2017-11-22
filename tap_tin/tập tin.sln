@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mssv", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{EF2514DC-E84C-432E-ACE1-86491A787244}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bt", "bt\bt.vcxproj", "{A628E274-4F82-4FDD-B7DD-508C366F09D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "taptin", "taptin\taptin.vcxproj", "{C9DD73D8-9B63-4B71-BCD2-9E15045B3BFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nmlt tap tin", "nmlt tap tin\nmlt tap tin.vcxproj", "{D5E50F39-D7D2-4C0E-AE2E-D8001110742A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2514DC-E84C-432E-ACE1-86491A787244}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF2514DC-E84C-432E-ACE1-86491A787244}.Debug|Win32.Build.0 = Debug|Win32
+		{EF2514DC-E84C-432E-ACE1-86491A787244}.Release|Win32.ActiveCfg = Release|Win32
+		{EF2514DC-E84C-432E-ACE1-86491A787244}.Release|Win32.Build.0 = Release|Win32
+		{A628E274-4F82-4FDD-B7DD-508C366F09D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A628E274-4F82-4FDD-B7DD-508C366F09D7}.Debug|Win32.Build.0 = Debug|Win32
+		{A628E274-4F82-4FDD-B7DD-508C366F09D7}.Release|Win32.ActiveCfg = Release|Win32
+		{A628E274-4F82-4FDD-B7DD-508C366F09D7}.Release|Win32.Build.0 = Release|Win32
+		{C9DD73D8-9B63-4B71-BCD2-9E15045B3BFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9DD73D8-9B63-4B71-BCD2-9E15045B3BFE}.Debug|Win32.Build.0 = Debug|Win32
+		{C9DD73D8-9B63-4B71-BCD2-9E15045B3BFE}.Release|Win32.ActiveCfg = Release|Win32
+		{C9DD73D8-9B63-4B71-BCD2-9E15045B3BFE}.Release|Win32.Build.0 = Release|Win32
+		{D5E50F39-D7D2-4C0E-AE2E-D8001110742A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5E50F39-D7D2-4C0E-AE2E-D8001110742A}.Debug|Win32.Build.0 = Debug|Win32
+		{D5E50F39-D7D2-4C0E-AE2E-D8001110742A}.Release|Win32.ActiveCfg = Release|Win32
+		{D5E50F39-D7D2-4C0E-AE2E-D8001110742A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
